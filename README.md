@@ -1,5 +1,4 @@
-# Content for the README.md
-readme_content = """
+
 # IPL Analysis
 
 This repository contains Python scripts and datasets for conducting in-depth analysis of the Indian Premier League (IPL). Whether you're a cricket enthusiast or a data scientist, you can use this repository to explore IPL data and gain valuable insights.
